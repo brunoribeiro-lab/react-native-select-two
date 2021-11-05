@@ -82,5 +82,6 @@ class CreateNewAppointment extends Component {
 | **selectedTitleStyle**    | _Object_       | none                            | Set custom style for display selected title text                                            |
 | **buttonTextStyle**       | _Object_       | none                            | Set custom button text style                                                                |
 | **buttonStyle**           | _Object_       | none                            | Set custom button style                                                                     |
+| **selectedText**          | _Boolean/String_       | false                            | Set custom text when selected multiples (use %t to replace by total selected)
 
 **MIT Licensed**
